@@ -1,4 +1,5 @@
 Hello Guys ..
 this is the java file
 good morning guys how are you
-ls -la
+ls -l
+king is always king
